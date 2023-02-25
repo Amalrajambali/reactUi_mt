@@ -52,7 +52,7 @@ function Navbar() {
 
               <form
                 class="form-inline my-2 my-lg-0"
-                style={{ paddingLeft: "50px" }}
+                style={{ paddingLeft: "40px" }}
               >
                 <input
                   className="form-style"
