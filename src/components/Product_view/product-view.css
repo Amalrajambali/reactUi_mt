@@ -1,0 +1,40 @@
+.productView-container
+{
+    width: 78%;
+    margin-top: 20px;
+    padding: 30px;
+}
+.pv-heading
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.pv-items{
+    display: flex;
+}
+.pv-contents
+{
+    width: 100%;
+    display: flex;
+    margin-left: 12px;
+}
+.pv-image{
+    width: 50%;
+    object-fit: contain;
+}
+.pv-data
+{
+    width: 50%;
+    padding: 8px;
+}
+
+img{
+    width: 117px;
+    height: 100%;
+    border-radius: 3px;
+}
+.checked {
+    color: blu;
+  }

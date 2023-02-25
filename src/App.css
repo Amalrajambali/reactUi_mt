@@ -1,0 +1,56 @@
+*{
+  border: 0;
+  margin: 0;
+}
+/* .App {
+} */
+.productCard-container
+{
+    width: 100%;
+    margin-top: 20px;
+    background-color:  #F8F8FF;
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.pc-heading
+{
+    width: 23%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 73px;
+}
+.explore-btn{
+  padding-top: 10px;
+  color: white;
+  border-radius: 8px;
+  background-color:#00C6D7;
+  box-shadow:0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.productView-container2
+{
+    width: 100%;
+    margin-top: 20px;
+    padding: 30px;
+}
+.pv-heading
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.flashsale-img
+{
+  width: 100%;
+  padding: 20px;
+}
+.img-flash
+{
+  
+  width: 100%;
+  height:  280px;
+  border-radius: 50px;
+  padding: 19px;
+}
